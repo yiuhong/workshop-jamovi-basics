@@ -1,2 +1,4 @@
-# workshop-jamovi-basics
-Materials, slides, and datasets for the 'Data Analysis with Jamovi' workshop.
+# Data analysis with Jamovi (2026)
+
+Welcome to the official repository for the workshop! This repository contains 
+all the slides, experiment files, and stimuli needed for the workshop.
