@@ -3,4 +3,4 @@
 Welcome to the official repository for the workshop! This repository contains 
 all the slides and data files needed for the workshop.
 
-[Slides](presentation/data_analysis_with workshop_20260629.pdf)
+[Slides](presentation/data_analysis_with_workshop_20260629.pdf)
